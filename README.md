@@ -1,4 +1,4 @@
-# Deep Learning in Titanic Survival Prediction
+# 🚀 Deep Learning in Titanic Survival Prediction
 
 This project leverages Deep Learning techniques to predict survival outcomes on the Titanic dataset. By utilizing the PyTorch framework and the D2L library, the project demonstrates the potential of neural networks in handling tabular data and producing predictive insights.
 
